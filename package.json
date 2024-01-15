@@ -1,7 +1,7 @@
 {
   "name": "@8bit-swap/sdk-core",
   "license": "MIT",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "⚒️ A core SDK used by v2 SDK and v3 SDK. Forked from @uniswap/sdk-core",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
